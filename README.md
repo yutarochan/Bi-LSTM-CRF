@@ -1,2 +1,7 @@
 # Bi-LSTM-CRF
-Experimental testing utilizing the Bi-Directional Long Short Term Memory + Conditional Random Field Deep Learning Architecture
+Experimental comparative study setup for various LSTM architectures, including:
+
+* Recurrent Neural Networks (RNN)
+* Vanilla LSTM Architecture
+* Bidirectional LSTM Architecture
+* Bidirectional LSTM + Conditional Random Fields (CRF) Architecture
